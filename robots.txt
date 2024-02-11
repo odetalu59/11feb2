@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://agadir.me/superjp.html/sitemap.xml
+Sitemap: http://agadir.me/gilajp.html/sitemap.xml
+Sitemap: http://agadir.me/gojekpot.html/sitemap.xml
+Sitemap: http://agadir.me/winstrike69.html/sitemap.xml
+Sitemap: http://agadir.me/jagoan86.html/sitemap.xml
+Sitemap: http://agadir.me/slotzeus.html/sitemap.xml
+Sitemap: http://agadir.me/kaptenjackpot.html/sitemap.xml
+Sitemap: http://agadir.me/boosterjp.html/sitemap.xml
+Sitemap: http://agadir.me/kerajaanslot.html/sitemap.xml
+Sitemap: http://agadir.me/pakong86.html/sitemap.xml
+Sitemap: http://agadir.me/viral88.html/sitemap.xml
+Sitemap: http://agadir.me/clan4d.html/sitemap.xml
+Sitemap: http://agadir.me/dinamit4d.html/sitemap.xml
+Sitemap: http://agadir.me/elang212.html/sitemap.xml
+Sitemap: http://agadir.me/gori77.html/sitemap.xml
+Sitemap: http://agadir.me/viral4d.html/sitemap.xml
+Sitemap: http://agadir.me/playground88.html/sitemap.xml
